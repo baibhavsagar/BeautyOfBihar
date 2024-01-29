@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any queries or further information, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any queries or further information, please contact us at [vaibhavsagar1998@gmail.com](mailto:vaibhavsagar1998@gmail.com).
 
 Thank you for visiting the "Beauty of Bihar" project!
 ```
