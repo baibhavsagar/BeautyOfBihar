@@ -20,7 +20,7 @@
 
 ## Table Of Contents
 
-* [About the Project](#BeautyOfbihar)
+* [About the Project](#Beauty-Of-bihar)
 * [Built With](#built-with)
 * [Getting Started](#Getting-Started)
   * [Prerequisites](#prerequisites)
