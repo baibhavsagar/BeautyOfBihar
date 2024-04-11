@@ -1,42 +1,36 @@
 <br/>
 <p align="center">
   <a href="https://github.com/baibhavsagar/BeautyOfBihar">
-    <img src="https://ik.imagekit.io/bbhavsgr/Beauty-of-Bihar/Logo-original.png?updatedAt=1712870806674" alt="Logo" width="80" height="80">
+    <img src="https://ik.imagekit.io/bbhavsgr/Beauty-of-Bihar/Logo-original.png?updatedAt=1712870806674" alt="Logo" width="110" height="80">
   </a>
 
   <h3 align="center">Beauty Of Bihar: Tourism Management System</h3>
 
   <p align="center">
-    New Solutions to Old Problems.
+    Welcome to my "Beauty of Bihar" project.
     <br/>
     <br/>
-    <a href="https://github.com/baibhavsagar/BeautyOfBihar"><strong>Explore the docs »</strong></a>
+    <a href="https://baibhavsagar.tech"><strong>Click here to Visit the Website »</strong></a>
+    <br>
+    <a href="https://scratched-truffle-93c.notion.site/Beauty-Of-Bihar-Tourism-Management-System-546942d3c10a4026abbe132993432167?pvs=4"><strong>Click here for Detailed Documentation »</strong></a>
     <br/>
     <br/>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/baibhavsagar/BeautyOfBihar/total) ![License](https://img.shields.io/github/license/baibhavsagar/BeautyOfBihar) 
-
 ## Table Of Contents
 
-* [About the Project](#about-the-project)
+* [About the Project](#BeautyOfbihar)
 * [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [Getting Started](#Getting-Started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Contributing](#contributing)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
-
-## About The Project
-
-![Screen Shot](https://ik.imagekit.io/bbhavsgr/Beauty-of-Bihar/screencapture-localhost-index-html-2023-11-29-15_40_07.png?updatedAt=1712871458014)
-![Screen Shot](https://ik.imagekit.io/bbhavsgr/Beauty-of-Bihar/screencapture-baibhavsagar-tech-tms-index-php-2024-04-12-03_12_09.png?updatedAt=1712871760451)
+* [Screenshot](#Screenshot)
 
 
 
-# Beauty of Bihar
+# Beauty Of Bihar
 
 Welcome to the "Beauty of Bihar" project! This website is dedicated to showcasing the rich culture, history, and natural beauty of Bihar, a state in eastern India. From its ancient ruins and religious sites to its vibrant festivals and delicious cuisine, Bihar has a lot to offer. Our project aims to bring the beauty of Bihar closer to people around the world
 
@@ -45,6 +39,7 @@ Welcome to the "Beauty of Bihar" project! This website is dedicated to showcasin
 - **HTML/CSS**: For structuring and styling the website.
 - **JavaScript**: To add interactivity and dynamic content.
 - **PHP**: For server-side scripting and handling form submissions.
+- **PHPmysql**: For Database conectivity.
 - **Bootstrap & MDB (Material Design for Bootstrap)**: For responsive design and modern UI components.
 
 ## Getting Started
@@ -54,11 +49,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-**Tools/Platforms:**
-    - Language/Frameworks used : HTML, CSS, Bootstrap, JavaScript, PHP, phpmysql
-    - IDE: Visual Studio code
-    - Web Server: XAMPP
-    - Version Control: Git Hub
+- IDE: Visual Studio code
+- Web Server: XAMPP
+- Version Control: Git Hub
 
 ### Installation
 
@@ -87,20 +80,13 @@ To get a local copy up and running follow these simple example steps.
   - Username: `anuj@gmail.com`
   - Password: `Test@123`
 
-## Contributing
-
-
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## Authors
 
 * **Baibhav Sagar** - *Web Developer* - [Baibhav Sagar](https://github.com/baibhavsagar) - *Developed by Baibhav Sagar*
 
+## Screenshot
+
+![Screen Shot](https://ik.imagekit.io/bbhavsgr/Beauty-of-Bihar/screencapture-localhost-index-html-2023-11-29-15_40_07.png?updatedAt=1712871458014)
+![Screen Shot](https://ik.imagekit.io/bbhavsgr/Beauty-of-Bihar/screencapture-baibhavsagar-tech-tms-index-php-2024-04-12-03_12_09.png?updatedAt=1712871760451)
 
