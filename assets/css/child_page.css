@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+* {
+  line-height: 170%;
+  color: #444;
+}
+body {
+  background: linear-gradient(to right, #ffc13b 0%, #ffc13b 100%);
+}
+
+mark {
+  background-color: white;
+  padding: 0px 0px;
+}
+
+.wrapper {
+  padding: 100px;
+  margin: 0 0 50px 0;
+  text-align: center;
+  height: 80vh;
+
+  font-family: "Montserrat", sans-serif !important;
+}
+.articleText {
+  margin: 0 10% 30px 20%;
+  width: 60%;
+  max-width: 1000px;
+  padding-left: 25px;
+  border-left: 1px solid #ed3572;
+  transition: all 0.4s ease;
+}
+p {
+  color: #444;
+  font-size: large;
+}
+.introduction {
+  margin-bottom: 20px;
+}
+
+.accountInfo {
+  transition: all ease 0.5s;
+  display: none;
+  height: 420px;
+  width: 250px;
+  background: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.article {
+  padding-bottom: 30rem;
+}
+
+@media only screen and (max-width: 1000px) {
+  /* For tablets: */
+  .articleText {
+    margin: 0 10% 30px 10%;
+    width: 80%;
+    max-width: 800px;
+    padding-left: 0px;
+    border: 0;
+  }
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .articleText {
+    margin: 0 5% 30px 5%;
+    width: 90%;
+    padding-bottom: 40%;
+  }
+  .wrapper {
+    padding: 8%;
+  }
+}
+
+/* sub para for blog post topic */
+
+.content-left {
+  float: left;
+  width: 75%;
+  padding-right: 30px;
+  border-right: 1px dashed #ccc;
+  box-sizing: border-box;
+}
+
+.content-right {
+  float: left;
+  width: 25%;
+  padding-left: 30px;
+  box-sizing: border-box;
+}
+
+.horizontal-banner {
+  width: 100%;
+  height: auto;
+  margin: 20px 0px;
+}
+
+.content-right p {
+  font-size: small;
+}

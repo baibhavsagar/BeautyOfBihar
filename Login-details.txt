@@ -1,0 +1,11 @@
+### Login Details
+
+- **Admin Login**:
+  - URL: `http://localhost/tms/admin`
+  - Username: `admin`
+  - Password: `Test@123`
+
+- **User Login**:
+  - URL: `http://localhost/tms/`
+  - Username: `anuj@gmail.com`
+  - Password: `Test@123`
